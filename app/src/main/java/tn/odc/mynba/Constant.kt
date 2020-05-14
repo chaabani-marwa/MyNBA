@@ -5,3 +5,5 @@ package tn.odc.mynba
 
 const val USER_BASE_URL = "https://evenement.azurewebsites.net/"
 const val USER_END_POINT = "api/Users1"
+const val POST_END_POINT = "api/posts"
+
